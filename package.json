@@ -1,7 +1,7 @@
 {
   "name": "automation-csv-profile",
   "version": "1.0.0",
-  "description": "Profil de CSV / CSV profiler — script Node.js sans dépendance",
+  "description": "CSV profiler: dependency-free Node.js script",
   "type": "module",
   "license": "MIT",
   "author": "Elzam MAMAH <ceo@monsieurelzam.com> (https://monsieurelzam.com)",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/MonsieurElzam/automation-csv-profile.git"
   },
-  "homepage": "https://monsieurelzam.com/scripts",
+  "homepage": "https://monsieurelzam.com/en/scripts",
   "keywords": [
     "automation",
     "cli",
